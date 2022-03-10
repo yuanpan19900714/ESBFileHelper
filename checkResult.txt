@@ -1,0 +1,1 @@
+读取服务识别文件出错！请检查文件[F:/神州数码/湖北银行ESB项目/服务开发备份/各版本/V0.4.3/SmartESB/configs/in_conf/serviceIdentify.xml]
